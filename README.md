@@ -27,7 +27,7 @@ Ajedrez jugable en el navegador con **HTML, CSS y JavaScript** puros: sin framew
 
 ### Demo
 
-**Juega ahora:** <https://alberto2005-coder.github.io/Ajedrez/>
+**Juega ahora:** <https://albertoortiz.is-a.dev/Ajedrez/>
 
 ### Requisitos
 
@@ -102,7 +102,7 @@ A playable browser chess game built with plain **HTML, CSS and JavaScript**: no 
 
 ### Demo
 
-**Play now:** <https://alberto2005-coder.github.io/Ajedrez/>
+**Play now:** <https://albertoortiz.is-a.dev/Ajedrez/>
 
 ### Requirements
 
